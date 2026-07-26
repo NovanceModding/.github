@@ -18,7 +18,7 @@ NovanceModding is built by a passionate team of creators dedicated to enhancing 
 
 ## Featured Projects
 
-We currently do not have any projects as of this time.
+ChitterSyncLib - A Library for ChitterSync Minecraft plugins to handle configs, save storage, ect.
 
 ## Get Involved
 
